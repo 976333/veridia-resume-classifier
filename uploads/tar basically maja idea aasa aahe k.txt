@@ -1,0 +1,43 @@
+tar basically maja idea aasa aahe ki jar koni gharatu baher shoping kiva kontya shop madhe jaycha vichar karto aahe tar to pahile majya platform var yeil aani check karel ki te shop open aahe ka nahi yachyane user cha time west nahi honar jar to location la gela aani shop band rahila tar.
+
+tar majya project cha structure kahi aas aahe ki majya app var don actors aahe 1.user 2.shop owner 
+
+page 1
+
+pahile doghan paiki koni pan aasel tar login karel google ne aani home page var yeil
+
+page 2(home page) customer perspective
+
+- doghan paiki koni pan raho tyala city select karavi lagel first time nanter to jevha pan visite karel tevha ti default set rahil 
+- aata aamhi kahi category banavnar aahe jas ki cloth, jwellery, hollceller,etc 
+- shop serch sathi serch bar rahil (jyachyat user shop name type karun shop find kare aani shop page var jail)
+- aata user la fakt selected city cha cha deta disel mhanje jar tyala shop cha direct nav nahi mahit tar to searching filter vapru shakel jas ki near by shop, nanter te category, kiva particular area tyala fakt tya city mhadle cha sagle disel ki konte shop open aahe aani konte nahi 
+- samja user ne jar cloth category select keli tar tyala majya pltform var jevdhe pan cloth store register aahe tya shop chi list name nusar disel and tyancha current status pan disel 
+- aata condition hi aahe ki user la shop cha name mahit aahe tar to direct shao name enter karel and shop cha page yeil ani tyachya khali tya shop chi location disel aani tya shop chay ame chya smor open aahe ki close te disel nanter jar shop owner ne kahi banner set keli aasel tar tithe tyala ti add disel 
+-aani baki je listing madhe aahe te pan lagle shop che name distil jar tyala location baghaychi ahe tar to tyachya var click karel nahi tar statuse baghel open or close goal achive 
+- home page var ak opetion rahil add shop 
+
+page 3(subscription page)
+
+- home page varun add shop buttone var press kelya nanter to subscription page la yeil
+- first tyala subscription plane distil 1 month, 3month, 6 month, 1 year.
+- konta pan ak plane select karel and payment send karel.
+- payment successe jalya nanter to add shop chya page var redirect hoil.
+
+page 4(add shop page)
+
+- ithe to shop chi basic information takel (shop name, nanter tyachya shop chi jio location dil, and shop owner authentication sathi ak document submit karel (this is not disied which document will be upload)
+- nanter to manager add karel mhanje tar to tya location la nahi pan tevha service operate karna sathi manager kade asses jail 
+- aata owner ne tyachi gio location set karun dili aahe.
+- target geofencing techniqune aapn owner la ak qunic id deu 
+- user profile disel tithe tyala shop name advertise add update section tyat tyachya shop chya add lau shakto and important mhanje manual control sathi ak buttone rahil je on and off karu shakto te directly cloud sobat connect aasel tya ne on kel tara saglya user la shop open disel and close kel tar sarvana close disel 
+
+
+
+notification method (remove maual nuttome dependency)
+
+- aata owner      a geofencing area madhe jar ti owner chi id enter jail tar tyala ak notification jail "update shop status as a open"
+- if jar tyane ti notification mis kele tar parat 10 minutes ne tyala notification jail same for open shop update 
+- tari tyane miss keli tar parat akda messeg jail pan nanter ak rule base call jail and ai bot scrip bolel plese update your shop is open 
+
+ 

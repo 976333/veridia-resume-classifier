@@ -1,0 +1,8 @@
+flask
+pandas
+scikit-learn
+nltk
+numpy
+joblib
+python-dotenv
+PyPDF2>=3.0.0

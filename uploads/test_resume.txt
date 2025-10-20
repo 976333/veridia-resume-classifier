@@ -1,0 +1,3 @@
+Experienced Software Engineer with 5+ years in Python, Django, and REST APIs.
+Skilled in cloud platforms like AWS and Azure. Strong problem-solving skills.
+Worked on large-scale applications for fintech clients. Proficient in Agile methodologies.

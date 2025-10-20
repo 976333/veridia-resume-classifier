@@ -1,0 +1,19 @@
+# Virtual Environment
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Data (large file – do not commit)
+data/
+
+# Uploads (user-generated)
+uploads/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
